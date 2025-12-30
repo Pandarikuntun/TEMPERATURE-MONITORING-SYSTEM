@@ -114,10 +114,6 @@ Advantages
 	Easy to expand with wireless or IoT modules
 	Reliable UART communication
 
-
-Firmware Code:
-
-
 Conclusion:
 	This project effectively monitors temperature using the STM32L4 microcontroller and the LM35 
   sensor while controlling a cooler in both automatic and manual modes. The system accurately reads
