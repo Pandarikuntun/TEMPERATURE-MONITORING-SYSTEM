@@ -120,3 +120,5 @@ Conclusion:
   temperature values, sends them to the PC through UART, and switches the relay based on user 
   commands or predefined temperature limits. Overall, the system is simple, reliable, 
   and well-suited for basic automation and temperature control applications.
+  <img width="885" height="733" alt="image" src="https://github.com/user-attachments/assets/e39c12d1-0371-4402-9105-86cd41dbd04d" />
+
